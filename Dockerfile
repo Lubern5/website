@@ -1,2 +1,2 @@
-From Lubern/webapp
+From lubern/webapp
 ADD . /var/www/hml
